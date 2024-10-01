@@ -1,1 +1,2 @@
-Nesse exercício está sendo feito um robô automatizado que realiza uma pesquisa no Google sobre os valores atuais do dólar e do euro e armazena esses valores em uma planilha do excel.
+Nesse exercício está sendo feito um robô automatizado que realiza uma pesquisa no Google sobre os valores atuais do dólar e do euro e armazena esses valores em uma planilha do excel. [
+É necessário instalar a biblioteca Selenium e o Chrome Driver.
