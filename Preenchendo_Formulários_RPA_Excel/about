@@ -1,0 +1,10 @@
+Nesse exercício é feito um preenchimento automático de um formulário web com RPA 
+
+
+No primeiro arquivo "preenchendo_formulario.py" é feito o preenchimento automático com as informações já passadas no código.
+Foram utilizadas as bibliotecas Selenium e PyAutoGui. 
+O formulário foi criado no site SurveyMonkey.
+
+No segundo arquivo "salvando_excel.py" é feito o preenchimento automático a partir das informações presentes no arquivo excel.
+Foi utilizada a biblioteca Selenium.
+É importante destacar que na hora de especificar o caminho do arquivo excel, é preciso alterá-lo para onde o seu arquivo está. 
