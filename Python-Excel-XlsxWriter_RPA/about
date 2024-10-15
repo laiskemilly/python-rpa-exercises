@@ -1,0 +1,25 @@
+Esses exercícios são para manipulação da biblioteca XlsxWriter no python para a criação e manipulação de arquivos Excel
+
+primeiro_arquivo.py - Exercicio para criar um arquivo Excel diretamente do python.
+
+alterando_cores.py - Exercicio para alterar as cores de fundo e das fontes nas células do arquivo Excel.
+
+mesclando_cores.py - Exercicio para alterar as cores das células, alinhar, colocar em negrito.
+
+arquivo_imagem.py - Exercicio para inserir uma imagem no arquivo Excel.
+
+merge_cells.py - Exercicio para mesclar as linhas e colunas da tabela.
+
+formulas.py - Exercicio para criar fórmulas matemáticas e de concatenação nas células do arquivo Excel.
+
+formatacao_condicional.py - Exercício para expressar uma condição dentro do arquivo Excel, nesse exemplo os dados na tabelas 
+serão coloridos com cores diferentes respeitando a condição imposta.
+
+formatacao_condicional_icones.py - Exercício para formatar a planilha e aplicar um conjunto de icones respeitando a formatação
+condicional.
+
+graficos.py - Exercício para a criação de dois tipos diferentes de gráficos no arquivo Excel.
+
+Observações:
+A biblioteca XlsxWriter precisa ser instalada corretamente para os códigos funcionarem.
+O caminho dos arquivos devem ser alterados para o caminho salvo no seu computador.
