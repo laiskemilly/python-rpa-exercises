@@ -1,0 +1,16 @@
+Esses exercícios são para manipulação da biblioteca Openpyxl no python para a criação e manipulação de arquivos Excel
+
+
+deletando_linhas_colunas.py - Exercício para deletar linhas e colunas da planilha Excel através do código python.
+
+inserir_dados.py - Exercício para inserir dados na tabela Aluno da planilha Excel através do código python.
+
+inserir_dados_pintar_celulas.py - Exercício para inserir dados na tabela Aluno da planilha Excel através do código python,
+depois colorir as células do título e das informações utilizando a biblioteca openpyxl.styles. 
+
+
+Observações:
+A biblioteca Openpyxl precisa ser instalada corretamente para os códigos funcionarem.
+O caminho dos arquivos devem ser alterados para o caminho salvo no seu computador.
+
+
